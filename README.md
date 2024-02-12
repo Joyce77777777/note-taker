@@ -61,3 +61,6 @@ Visit the app here: https://note-taker-expjs-b182af31ff18.herokuapp.com/
 - Express.js for backend server functionality.
 - UUID for generating unique identifiers for each note.
 - Nodemon (as a development dependency) for automatic server restarts on code changes.
+
+## Repository Location
+This project can be found at https://github.com/Joyce77777777/note-taker/
