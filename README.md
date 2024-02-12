@@ -53,6 +53,9 @@ npm run watch
 
 Open your browser and navigate to `http://localhost:3001` to start using Note Taker.
 
+## Deployed Application Link
+Visit the app here: https://note-taker-expjs-b182af31ff18.herokuapp.com/
+
 ## Dependencies
 
 - Express.js for backend server functionality.
